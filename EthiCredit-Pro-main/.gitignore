@@ -1,0 +1,17 @@
+# EthiCredit Pro — Root gitignore
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+frontend/.env.local
+
+# Backend Python
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
